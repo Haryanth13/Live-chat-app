@@ -13,20 +13,34 @@ Simple and easy-to-use interface
  *Project Structure*
 
  📦 real-time-chat-app
- ┣ 📂 client            # React Frontend
+ ┣ 📂 client          
+ # React Frontend
  ┃ ┣ 📂 src
+ 
  ┃ ┃ ┣ 📜 App.jsx
+
  ┃ ┃ ┣ 📜 index.js
+ 
  ┃ ┃ ┣ 📜 Chat.jsx
+ 
  ┃ ┃ ┣ 📜 index.css
+ 
  ┃ ┃ ┗ 📜 message.css
+ 
  ┃ ┣ 📜 package.json
+ 
  ┃ ┗ 📜 vite.config.js
+ 
  ┣ 📂 server            # Node.js Backend
+ 
  ┃ ┣ 📜 server.js
+ 
  ┃ ┣ 📜 package.json
+ 
  ┃ ┗ 📜 .gitignore
+ 
  ┣ 📜 README.md         # Project Documentation
+ 
  ┗ 📜 .gitignore
 
  *Access the Chat Application*
